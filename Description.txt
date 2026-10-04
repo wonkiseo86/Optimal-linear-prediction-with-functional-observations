@@ -1,0 +1,12 @@
+File names : BLP_A_B, 
+
+A : types of innovations, "BM", "Bridge", or "DBM"
+B : types of estimators, "single_truncation", "double_trunction" or "double_trunction_alt"
+
+BM : Brownian motions
+Bridge : Brownian Bridge
+DBM : Centerd (Demeaned) Brownian motion
+
+single_truncation : Estiamtor considered in Table 1
+double_truncation : Estiamtor considered in Table 2
+double_truncation_alt : Estiamtor considered in Table 3
